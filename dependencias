@@ -8,3 +8,8 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 yarn add @react-navigation/botton-tabs
 yarn add @react-navigation/drawer
 yarn add react-native-reanimated
+expo install expo-splash-screen
+yarn add @react-navigation/material-bottom-tabs react-native-paper
+yarn add react-native-responsive-fontsize
+expo install expo-font
+expo install expo-app-loading
