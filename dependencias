@@ -14,6 +14,7 @@ yarn add react-native-responsive-fontsize
 expo install expo-font
 expo install expo-app-loading
 expo install react-native-dropdown-picker
+yarn add @react-navigation/stack
 
 para actualizar el SDK:
 npm install -g expo-cli   o    npm i -g expo-cli@5.0.2
